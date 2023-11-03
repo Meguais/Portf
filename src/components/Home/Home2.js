@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />Programming Languages ​​and Tools
               <i>
-                <b className="purple"> &nbsp;.NET Core,  &nbsp;JavaScript(TypeScript), &nbsp;Rust, &nbsp;Python,  &nbsp;VueJS,  &nbsp;ReactJS, &nbsp;NuxtJS, &nbsp;ElectronJS, &nbsp;Redis,  &nbsp;RabbitMQ,  &nbsp;Apache  &nbsp;Kafka,  &nbsp;Docker,  &nbsp;Mongose,  &nbsp;Prisma,  &nbsp; Typeorm, Entity Framework </b>
+                <b className="purple"> &nbsp;.NET Core,  &nbsp;JavaScript(TypeScript), &nbsp;Rust, &nbsp;Python,  &nbsp;AngularJS, &nbsp;VueJS,  &nbsp;ReactJS, &nbsp;NuxtJS, &nbsp;ElectronJS, &nbsp;Redis,  &nbsp;RabbitMQ,  &nbsp;Apache  &nbsp;Kafka,  &nbsp;Docker,  &nbsp;Mongose,  &nbsp;Prisma,  &nbsp; Typeorm, Entity Framework </b>
               </i>
               <br />
               <br />
